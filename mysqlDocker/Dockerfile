@@ -1,0 +1,3 @@
+FROM mysql:latest
+ENV MYSQL_ROOT_PASSWORD=car
+ENV MYSQL_DATABASE=carsystemdb
